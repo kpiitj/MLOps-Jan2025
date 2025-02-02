@@ -1,1 +1,1 @@
-This is initial content in an example file.
+The content is completely removed in file on branch rollno-1.
